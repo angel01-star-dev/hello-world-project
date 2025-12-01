@@ -24,4 +24,4 @@ root.mainloop()
 ```
 
 ### Визуал приложения
-![картинка](https://github.com/angel01-star-dev/hello-world-project/blob/main/pics)
+![картинка](https://github.com/angel01-star-dev/hello-world-project/blob/main/pics2)
