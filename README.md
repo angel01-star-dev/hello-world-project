@@ -22,3 +22,6 @@ label_1_first_str.pack()
 
 root.mainloop()
 ```
+
+### Визуал приложения
+![картинка]()
